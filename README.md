@@ -7,4 +7,4 @@ first
 second 
 ''pkg install git -y''
 third 
-''git clone
+''git clone 
